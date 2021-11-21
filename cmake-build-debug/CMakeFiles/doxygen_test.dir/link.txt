@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\doxygen_test.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\doxygen_test.dir/objects.a @CMakeFiles\doxygen_test.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\doxygen_test.dir/objects.a -Wl,--no-whole-archive -o doxygen_test.exe -Wl,--out-implib,libdoxygen_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\doxygen_test.dir\linklibs.rsp

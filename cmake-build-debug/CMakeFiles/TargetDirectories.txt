@@ -1,0 +1,3 @@
+C:/repos/doxygen-test/cmake-build-debug/CMakeFiles/doxygen_test.dir
+C:/repos/doxygen-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/repos/doxygen-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
